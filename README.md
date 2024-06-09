@@ -1,7 +1,5 @@
 ## Introduction
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20FaceitVisuals;x+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
-</p>
+
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/shadiflo">shadi</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
@@ -39,5 +37,4 @@
 </a> 
 </p>
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/AdelFetner/adelfetner/assets/77463982/634de14c-47c2-4903-a441-0832dc9326fc');]{x0000}$}```
+
