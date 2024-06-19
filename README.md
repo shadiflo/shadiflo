@@ -12,8 +12,6 @@
  </p>
  
 
-
-
 ## What I'm Doing
 
 - 🔭 Working on Bots/Web Developement
